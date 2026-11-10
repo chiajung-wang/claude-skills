@@ -3,6 +3,9 @@
   "owner": {
     "name": "Chiajung Wang"
   },
+  "metadata": {
+    "description": "Claude Code skills by Chiajung Wang."
+  },
   "plugins": [
     {
       "name": "learning-framework",
