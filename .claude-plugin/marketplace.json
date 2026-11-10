@@ -1,0 +1,13 @@
+{
+  "name": "chiajung-skills",
+  "owner": {
+    "name": "Chiajung Wang"
+  },
+  "plugins": [
+    {
+      "name": "learning-framework",
+      "source": "./plugins/learning-framework",
+      "description": "Build a layered 'zoom lens' learning map for any domain, then expand one block at a time."
+    }
+  ]
+}

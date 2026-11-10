@@ -1,0 +1,11 @@
+{
+  "name": "learning-framework",
+  "version": "0.1.0",
+  "description": "Build a layered 'zoom lens' learning map for any domain, then expand one block at a time.",
+  "author": {
+    "name": "Chiajung Wang"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/chiajung-wang/claude-skills",
+  "keywords": ["learning", "curriculum", "study", "prompts"]
+}
